@@ -1,3 +1,3 @@
-hello
-ijfijsdifsd
-kkkkkkkkk
+<?php
+	echo "HELLO WORD!!!";
+?>
